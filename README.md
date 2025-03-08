@@ -12,7 +12,7 @@ The **YouTube Summarizer** is a web application that extracts key insights from 
 ## Screenshots
 ### 1. Application UI
 This is the main interface where users input a YouTube URL and generate a summary.
-![UI](./mnt/data/Screenshot%202025-03-09%20004711.png)
+![UI](![Image](https://github.com/user-attachments/assets/96a05359-271b-4699-87e9-221bc7784c39))
 
 ### 2. Example YouTube Video Used for Summarization
 The following **Breaking Bad** scene was summarized using the app.
