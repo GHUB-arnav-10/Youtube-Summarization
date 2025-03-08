@@ -16,12 +16,13 @@ This is the main interface where users input a YouTube URL and generate a summar
 
 ### 2. Example YouTube Video Used for Summarization
 The following **Breaking Bad** scene was summarized using the app.
-![Image](https://github.com/user-attachments/assets/bd620ca9-e61f-4782-9a32-1c7d3e5cb14e)
+![Image](https://github.com/user-attachments/assets/dec9c37b-5d9b-43dc-bedb-70bc7951f579)
 
 
 ### 3. Summarization Output
 This is an example of a generated summary.
-![Image](https://github.com/user-attachments/assets/96a05359-271b-4699-87e9-221bc7784c39)
+![Image](https://github.com/user-attachments/assets/bd620ca9-e61f-4782-9a32-1c7d3e5cb14e)
+
 
 ## How to Use
 1. Open the application: [YouTube Summarizer](https://my-youtube-summarizer-686717188769.us-central1.run.app)
